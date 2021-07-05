@@ -1,9 +1,15 @@
 span{
     color: chartreuse;
 }
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    
+}
 .cube{
-    color: darkblue;
     text-align: center;
     padding-top: 10%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+span{
+    color: chartreuse;
 }
