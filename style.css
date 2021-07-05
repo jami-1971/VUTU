@@ -12,10 +12,15 @@ body{
 }
 .link-button{
     text-decoration: chocolate;
-    color: greenyellow;
+    color: white;
     padding: 10px 10px 40px;
     background-image: linear-gradient(yellow orange);
     border-radius: 5px;
+    background-color: blue;
+}
+#op{
+    color: brown;
+    text-align: left;
 }
 .yoo{
     
