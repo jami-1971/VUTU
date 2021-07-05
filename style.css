@@ -41,10 +41,15 @@ body{
 }
 .kisuna{
     box-shadow: 20px 20px 50pxpx blue;
+    width: 50%;
     padding-left: 10%;
     padding-right: 10%;
     padding-top: 10%;
     border-left: yellow;
     border-top: red;
     
+}
+#hello{
+    text-align: center;
+    size: 20px;
 }
