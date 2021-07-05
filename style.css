@@ -10,3 +10,10 @@ h1{
     text-align: center;
     padding-top: 4%;
 }
+.link-button{
+    text-decoration: chocolate;
+    color: greenyellow;
+    padding: 10px 10px 40px;
+    background-image: linear-gradient(yellow orange);
+    border-radius: 5px;
+}
