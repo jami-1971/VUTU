@@ -6,6 +6,10 @@ body{
     color: black;
     
 }
+.bye{
+    padding-left: 5%;
+    padding-top: 10%;
+}
 #hi{
     text-align: center;
     padding-top: 4%;
