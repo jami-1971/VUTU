@@ -23,3 +23,7 @@ h1{
     padding-left: 10%;
     padding-top: 10%;
 }
+.flexible-container{
+    display: flex;
+    margin-bottom: 10%;
+}
